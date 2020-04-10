@@ -64,3 +64,6 @@
 [submodule "DeepSpeech"]
 	path = DeepSpeech
 	url = https://github.com/mozilla/DeepSpeech.git
+[submodule "training-data-analyst"]
+	path = training-data-analyst
+	url = https://github.com/austindimmer/training-data-analyst.git
