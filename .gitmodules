@@ -1,0 +1,66 @@
+[submodule "handson-ml2"]
+	path = handson-ml2
+	url = https://github.com/austindimmer/handson-ml2.git
+[submodule "deep-learning-with-python-notebooks"]
+	path = deep-learning-with-python-notebooks
+	url = https://github.com/austindimmer/deep-learning-with-python-notebooks.git
+[submodule "python-machine-learning-book-2nd-edition"]
+	path = python-machine-learning-book-2nd-edition
+	url = https://github.com/austindimmer/python-machine-learning-book-2nd-edition.git
+[submodule "Hands-On-Artificial-Intelligence-for-Cybersecurity"]
+	path = Hands-On-Artificial-Intelligence-for-Cybersecurity
+	url = https://github.com/austindimmer/Hands-On-Artificial-Intelligence-for-Cybersecurity.git
+[submodule "Python-Machine-Learning-Third-Edition"]
+	path = Python-Machine-Learning-Third-Edition
+	url = https://github.com/austindimmer/Python-Machine-Learning-Third-Edition.git
+[submodule "machine-learning-and-security"]
+	path = machine-learning-and-security
+	url = https://github.com/austindimmer/machine-learning-and-security.git
+[submodule "data-science-from-scratch"]
+	path = data-science-from-scratch
+	url = https://github.com/austindimmer/data-science-from-scratch.git
+[submodule "Keras-Reinforcement-Learning-Projects"]
+	path = Keras-Reinforcement-Learning-Projects
+	url = https://github.com/austindimmer/Keras-Reinforcement-Learning-Projects.git
+[submodule "Advanced-Deep-Learning-with-Keras"]
+	path = Advanced-Deep-Learning-with-Keras
+	url = https://github.com/austindimmer/Advanced-Deep-Learning-with-Keras.git
+[submodule "Hands-On-Intelligent-Agents-with-OpenAI-Gym"]
+	path = Hands-On-Intelligent-Agents-with-OpenAI-Gym
+	url = https://github.com/austindimmer/Hands-On-Intelligent-Agents-with-OpenAI-Gym.git
+[submodule "Deep-Learning-with-PyTorch"]
+	path = Deep-Learning-with-PyTorch
+	url = https://github.com/austindimmer/Deep-Learning-with-PyTorch.git
+[submodule "PyTorchNLPBook"]
+	path = PyTorchNLPBook
+	url = https://github.com/austindimmer/PyTorchNLPBook.git
+[submodule "Reinforcement-Learning-with-TensorFlow"]
+	path = Reinforcement-Learning-with-TensorFlow
+	url = https://github.com/austindimmer/Reinforcement-Learning-with-TensorFlow.git
+[submodule "amazon-sagemaker-examples"]
+	path = amazon-sagemaker-examples
+	url = https://github.com/austindimmer/amazon-sagemaker-examples.git
+[submodule "sagemaker-python-sdk"]
+	path = sagemaker-python-sdk
+	url = https://github.com/aws/sagemaker-python-sdk.git
+[submodule "amazon-sagemaker-workshop"]
+	path = amazon-sagemaker-workshop
+	url = https://github.com/austindimmer/amazon-sagemaker-workshop.git
+[submodule "sagemaker-tensorflow-container"]
+	path = sagemaker-tensorflow-container
+	url = https://github.com/austindimmer/sagemaker-tensorflow-container.git
+[submodule "sagemaker-containers"]
+	path = sagemaker-containers
+	url = https://github.com/austindimmer/sagemaker-containers.git
+[submodule "amazon-sagemaker-developer-guide"]
+	path = amazon-sagemaker-developer-guide
+	url = https://github.com/awsdocs/amazon-sagemaker-developer-guide.git
+[submodule "mit-deep-learning"]
+	path = mit-deep-learning
+	url = https://github.com/austindimmer/mit-deep-learning.git
+[submodule "linux-academy-aws-mls"]
+	path = linux-academy-aws-mls
+	url = https://github.com/austindimmer/content-aws-mls-c01.git
+[submodule "DeepSpeech"]
+	path = DeepSpeech
+	url = https://github.com/mozilla/DeepSpeech.git
