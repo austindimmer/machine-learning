@@ -67,3 +67,6 @@
 [submodule "training-data-analyst"]
 	path = training-data-analyst
 	url = https://github.com/austindimmer/training-data-analyst.git
+[submodule "sagemaker-tensorflow-serving-container"]
+	path = sagemaker-tensorflow-serving-container
+	url = https://github.com/austindimmer/sagemaker-tensorflow-serving-container
