@@ -73,3 +73,6 @@
 [submodule "deep-learning-containers"]
 	path = deep-learning-containers
 	url = https://github.com/austindimmer/deep-learning-containers.git
+[submodule "cuda-samples"]
+	path = cuda-samples
+	url = https://github.com/NVIDIA/cuda-samples.git
