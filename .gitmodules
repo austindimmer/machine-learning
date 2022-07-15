@@ -67,3 +67,21 @@
 [submodule "training-data-analyst"]
 	path = training-data-analyst
 	url = https://github.com/austindimmer/training-data-analyst.git
+[submodule "sagemaker-tensorflow-serving-container"]
+	path = sagemaker-tensorflow-serving-container
+	url = https://github.com/austindimmer/sagemaker-tensorflow-serving-container
+[submodule "deep-learning-containers"]
+	path = deep-learning-containers
+	url = https://github.com/austindimmer/deep-learning-containers.git
+[submodule "cuda-samples"]
+	path = cuda-samples
+	url = https://github.com/NVIDIA/cuda-samples.git
+[submodule "homemade-machine-learning"]
+	path = homemade-machine-learning
+	url = https://github.com/austindimmer/homemade-machine-learning.git
+[submodule "data-science-on-aws"]
+	path = data-science-on-aws
+	url = https://github.com/austindimmer/data-science-on-aws.git
+[submodule "pydata-book"]
+	path = pydata-book
+	url = https://github.com/austindimmer/pydata-book.git
