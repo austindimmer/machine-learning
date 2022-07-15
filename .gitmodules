@@ -85,3 +85,6 @@
 [submodule "pydata-book"]
 	path = pydata-book
 	url = https://github.com/austindimmer/pydata-book.git
+[submodule "fastbook"]
+	path = fastbook
+	url = https://github.com/austindimmer/fastbook.git
