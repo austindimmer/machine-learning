@@ -82,3 +82,6 @@
 [submodule "data-science-on-aws"]
 	path = data-science-on-aws
 	url = https://github.com/austindimmer/data-science-on-aws.git
+[submodule "pydata-book"]
+	path = pydata-book
+	url = https://github.com/austindimmer/pydata-book.git
