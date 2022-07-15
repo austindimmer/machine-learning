@@ -79,3 +79,6 @@
 [submodule "homemade-machine-learning"]
 	path = homemade-machine-learning
 	url = https://github.com/austindimmer/homemade-machine-learning.git
+[submodule "data-science-on-aws"]
+	path = data-science-on-aws
+	url = https://github.com/austindimmer/data-science-on-aws.git
