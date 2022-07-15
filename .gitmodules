@@ -76,3 +76,6 @@
 [submodule "cuda-samples"]
 	path = cuda-samples
 	url = https://github.com/NVIDIA/cuda-samples.git
+[submodule "homemade-machine-learning"]
+	path = homemade-machine-learning
+	url = https://github.com/austindimmer/homemade-machine-learning.git
