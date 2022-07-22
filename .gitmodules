@@ -85,3 +85,12 @@
 [submodule "pydata-book"]
 	path = pydata-book
 	url = https://github.com/austindimmer/pydata-book.git
+[submodule "fastbook"]
+	path = fastbook
+	url = https://github.com/austindimmer/fastbook.git
+[submodule "ML-Notebooks"]
+	path = ML-Notebooks
+	url = https://github.com/austindimmer/ML-Notebooks.git
+[submodule "mlflow"]
+	path = mlflow
+	url = https://github.com/mlflow/mlflow.git
