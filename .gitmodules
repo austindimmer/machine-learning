@@ -91,3 +91,6 @@
 [submodule "ML-Notebooks"]
 	path = ML-Notebooks
 	url = https://github.com/austindimmer/ML-Notebooks.git
+[submodule "mlflow"]
+	path = mlflow
+	url = https://github.com/mlflow/mlflow.git
