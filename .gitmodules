@@ -96,4 +96,4 @@
 	url = https://github.com/mlflow/mlflow.git
 [submodule "machine-learning-book"]
 	path = machine-learning-book
-	url = https://github.com/rasbt/machine-learning-book.git
+	url = https://github.com/austindimmer/machine-learning-book
