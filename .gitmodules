@@ -97,3 +97,6 @@
 [submodule "machine-learning-book"]
 	path = machine-learning-book
 	url = https://github.com/austindimmer/machine-learning-book
+[submodule "common-voice"]
+	path = common-voice
+	url = https://github.com/austindimmer/common-voice.git
